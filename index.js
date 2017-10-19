@@ -1,3 +1,5 @@
+// JavaScript method of .toUpperCase() and .toLowerCase() changes the string to all uppercase or all lowercase
+
 function shout(string) {
   return string.toUpperCase()
 }
@@ -28,3 +30,6 @@ function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
 >>>>>>> afa889a06ff7f7f19dd4e5a1a56e247e93a34841
+
+// if statement returns the string if the condition is true
+// else if statement returns the string if the first condition is false 
